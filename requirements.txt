@@ -1,0 +1,5 @@
+socket
+tkinter
+tkinter.font
+customtkinter
+subprocess

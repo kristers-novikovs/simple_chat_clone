@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 20,
+    "editor.cursorStyle": "line-thin",
+    "window.density.editorTabHeight": "compact",
+    "python.analysis.typeCheckingMode": "basic"
+}

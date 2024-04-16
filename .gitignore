@@ -1,0 +1,4 @@
+#BT_MAC(server) 8C:88:2B:20:5A:62
+#BT_MAC(client) 20:4E:F6:4D:2D:5A
+#LAN_IP(server) 192.168.0.1XX
+#LAN_IP(client) 192.168.0.1XX
